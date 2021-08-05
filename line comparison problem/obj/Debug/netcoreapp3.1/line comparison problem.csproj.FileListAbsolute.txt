@@ -1,0 +1,13 @@
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\bin\Debug\netcoreapp3.1\line comparison problem.exe
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\bin\Debug\netcoreapp3.1\line comparison problem.deps.json
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\bin\Debug\netcoreapp3.1\line comparison problem.runtimeconfig.json
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\bin\Debug\netcoreapp3.1\line comparison problem.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\bin\Debug\netcoreapp3.1\line comparison problem.dll
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\bin\Debug\netcoreapp3.1\line comparison problem.pdb
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.dll
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.pdb
+C:\Users\SHIVA KUMAR\Desktop\New folder\line comparison problem\line comparison problem\line comparison problem\obj\Debug\netcoreapp3.1\line comparison problem.genruntimeconfig.cache
