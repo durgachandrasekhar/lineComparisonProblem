@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace LineComparisonProblem
 {
@@ -21,13 +20,18 @@ namespace LineComparisonProblem
             b2 = Convert.ToInt32(Console.ReadLine());
             double len1 = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
             double len2 = Math.Sqrt(Math.Pow(a2 - a1, 2) + Math.Pow(b2 - b1, 2));
-            if (len1.Equals(len2))
+            int diffInLength = len1.CompareTo(len2);
+            if (diffInLength == 0)
             {
-                Console.WriteLine(" Lines are equal in length. ");
+                Console.WriteLine("Lines are equal in length");
+            }
+            else if (diffInLength > 0)
+            {
+                Console.WriteLine("Line1 is greater in length than Line2");
             }
             else
             {
-                Console.WriteLine(" Lines are not equal in length. ");
+                Console.WriteLine("Line1 is smaller in length than Line2");
             }
         }
     }
